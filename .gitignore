@@ -4,6 +4,7 @@ node_modules/
 .eslintcache
 .firebaserc
 .DS_Store
-.gitignore
 package-lock.json
+package.json
+.gitignore
 
