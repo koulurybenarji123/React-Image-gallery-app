@@ -3,6 +3,6 @@ build/
 node_modules/
 .eslintcache
 .firebaserc
-
+.gitignore
 .DS_Store
 package-lock.json
